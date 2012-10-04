@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} http://osc5.ezimobile.biz/
+RewriteRule (.*) http://osc5.ezimobile.biz/catalog/
